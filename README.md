@@ -1,0 +1,2 @@
+# Integrador-II---Segundo-Corte-Evaluativo.-CesarSequeira-CristopherSevilla-GiancarloLarios-DanielG
+A continuación, mis compañeros Cristopher Sevilla, Giancarlo Larios, Daniel García y mi persona Cesa Sequeira les presentamos nuestro código Python para la defensa de nuestra primera app para defender el segundo corte evaluativo del segundo semestre. Utilizando la librería Flet y aplicando los conocimientos brindados en los componentes cursados
